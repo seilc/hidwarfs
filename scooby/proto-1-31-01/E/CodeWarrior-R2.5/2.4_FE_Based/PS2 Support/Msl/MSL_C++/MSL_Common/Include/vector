@@ -1,0 +1,60 @@
+/*
+    Compile unit: E:\CodeWarrior-R2.5\2.4_FE_Based\PS2 Support\Msl\MSL_C++\MSL_Common\Include\vector
+    Producer: MW MIPS C Compiler
+    Language: C++
+    Code range: 0x0020A6D0 -> 0x0020A788
+*/
+// Range: 0x20A6D0 -> 0x20A788
+// this: r29+0x30
+__vector_pod::~__vector_pod() {
+    /* anonymous block */ {
+        // Range: 0x20A6D0 -> 0x20A788
+    }
+}
+
+
+/*
+    Compile unit: E:\CodeWarrior-R2.5\2.4_FE_Based\PS2 Support\Msl\MSL_C++\MSL_Common\Include\vector
+    Producer: MW MIPS C Compiler
+    Language: C++
+    Code range: 0x0020A7C0 -> 0x0020A7E8
+*/
+// Range: 0x20A7C0 -> 0x20A7E8
+// this: r29+0x10
+unsigned int & __vector_pod::cap() {
+    /* anonymous block */ {
+        // Range: 0x20A7C0 -> 0x20A7E8
+    }
+}
+
+
+/*
+    Compile unit: E:\CodeWarrior-R2.5\2.4_FE_Based\PS2 Support\Msl\MSL_C++\MSL_Common\Include\vector
+    Producer: MW MIPS C Compiler
+    Language: C++
+    Code range: 0x0020A840 -> 0x0020A868
+*/
+// Range: 0x20A840 -> 0x20A868
+// this: r29+0x10
+class allocator & __vector_pod::alloc() {
+    /* anonymous block */ {
+        // Range: 0x20A840 -> 0x20A868
+    }
+}
+
+
+/*
+    Compile unit: E:\CodeWarrior-R2.5\2.4_FE_Based\PS2 Support\Msl\MSL_C++\MSL_Common\Include\vector
+    Producer: MW MIPS C Compiler
+    Language: C++
+    Code range: 0x0020A8C0 -> 0x0020A8DC
+*/
+// Range: 0x20A8C0 -> 0x20A8DC
+// this: r29
+unsigned int * & __vector_pod::data() {
+    /* anonymous block */ {
+        // Range: 0x20A8C0 -> 0x20A8DC
+    }
+}
+
+

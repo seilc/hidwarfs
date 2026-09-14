@@ -1,0 +1,105 @@
+/*
+    Compile unit: C:\RatsAutobuild\rt\Engine\Game\zProgressScript.cpp
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x8010A54C -> 0x8010A710
+*/
+// total size: 0x10
+struct basic_rect {
+    // Static members
+    static struct basic_rect m_Null; // size: 0x10
+    static struct basic_rect m_Unit; // size: 0x10
+
+    // Members
+    float x; // offset 0x0, size 0x4
+    float y; // offset 0x4, size 0x4
+    float w; // offset 0x8, size 0x4
+    float h; // offset 0xC, size 0x4
+};
+// Range: 0x8010A54C -> 0x8010A56C
+void zProgressScript_Init(void * b /* r0 */, void * sasset /* r0 */) {}
+
+unsigned int gActiveHeap; // size: 0x4, address: 0x803C1074
+// total size: 0x20
+struct xLinkAsset {
+    // Members
+    unsigned short srcEvent; // offset 0x0, size 0x2
+    unsigned short dstEvent; // offset 0x2, size 0x2
+    unsigned int dstAssetID; // offset 0x4, size 0x4
+    float param[4]; // offset 0x8, size 0x10
+    unsigned int paramWidgetAssetID; // offset 0x18, size 0x4
+    unsigned int chkAssetID; // offset 0x1C, size 0x4
+};
+// total size: 0x10
+struct xBase {
+    // Members
+    unsigned int id; // offset 0x0, size 0x4
+    unsigned char baseType; // offset 0x4, size 0x1
+    unsigned char linkCount; // offset 0x5, size 0x1
+    unsigned short baseFlags; // offset 0x6, size 0x2
+    const struct xLinkAsset * link; // offset 0x8, size 0x4
+    void (* eventFunc)(struct xBase *, struct xBase *, unsigned int, float *, struct xBase *, unsigned int); // offset 0xC, size 0x4
+};
+// total size: 0x8
+struct xBaseAsset {
+    // Members
+    unsigned int id; // offset 0x0, size 0x4
+    unsigned char baseType; // offset 0x4, size 0x1
+    unsigned char linkCount; // offset 0x5, size 0x1
+    unsigned short baseFlags; // offset 0x6, size 0x2
+};
+// total size: 0xC
+struct xProgressScriptAsset : public xBaseAsset {
+    // Members
+    unsigned int eventCount; // offset 0x8, size 0x4
+};
+// total size: 0x24
+struct xProgressScriptEventAsset {
+    // Members
+    float percent; // offset 0x0, size 0x4
+    int flags; // offset 0x4, size 0x4
+    unsigned int widget; // offset 0x8, size 0x4
+    unsigned int paramEvent; // offset 0xC, size 0x4
+    float param[4]; // offset 0x10, size 0x10
+    unsigned int paramWidget; // offset 0x20, size 0x4
+};
+// total size: 0x28
+struct zProgressScript : public xBase {
+    // Members
+    struct xProgressScriptAsset * sasset; // offset 0x10, size 0x4
+    struct xProgressScriptEventAsset * events; // offset 0x14, size 0x4
+    int numFlagWords; // offset 0x18, size 0x4
+    unsigned int * flags; // offset 0x1C, size 0x4
+    float percent; // offset 0x20, size 0x4
+    int current; // offset 0x24, size 0x4
+};
+// Range: 0x8010A56C -> 0x8010A620
+void zProgressScript_Init(struct xBase * b /* r31 */, struct xProgressScriptAsset * sasset /* r30 */) {
+    // Local variables
+    struct zProgressScript * s; // r31
+
+    // References
+    // -> unsigned int gActiveHeap;
+}
+
+// Range: 0x8010A620 -> 0x8010A688
+void zProgressScript_Reset(struct zProgressScript * s /* r31 */) {
+    // Local variables
+    int i; // r6
+}
+
+// total size: 0x0
+struct xSerial {};
+// Range: 0x8010A688 -> 0x8010A6A8
+void zProgressScript_Save(struct zProgressScript * ent /* r0 */, struct xSerial * s /* r0 */) {}
+
+// Range: 0x8010A6A8 -> 0x8010A6C8
+void zProgressScript_Load(struct zProgressScript * ent /* r0 */, struct xSerial * s /* r0 */) {}
+
+// Range: 0x8010A6C8 -> 0x8010A710
+void zProgressScript_EventCB(struct xBase * to /* r4 */, unsigned int toEvent /* r0 */) {
+    // Local variables
+    struct zProgressScript * s; // r4
+}
+
+

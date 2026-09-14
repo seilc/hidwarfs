@@ -1,0 +1,60 @@
+/*
+    Compile unit: E:\CodeWarrior-R2.5\2.4_FE_Based\PS2 Support\Msl\MSL_C++\MSL_Common\Include\msl_utility
+    Producer: MW MIPS C Compiler
+    Language: C++
+    Code range: 0x0020A7F0 -> 0x0020A818
+*/
+// Range: 0x20A7F0 -> 0x20A818
+// this: r29+0x10
+unsigned int & compressed_pair::second() {
+    /* anonymous block */ {
+        // Range: 0x20A7F0 -> 0x20A818
+    }
+}
+
+
+/*
+    Compile unit: E:\CodeWarrior-R2.5\2.4_FE_Based\PS2 Support\Msl\MSL_C++\MSL_Common\Include\msl_utility
+    Producer: MW MIPS C Compiler
+    Language: C++
+    Code range: 0x0020A820 -> 0x0020A838
+*/
+// Range: 0x20A820 -> 0x20A838
+// this: r29
+unsigned int & compressed_pair_imp::second() {
+    /* anonymous block */ {
+        // Range: 0x20A820 -> 0x20A838
+    }
+}
+
+
+/*
+    Compile unit: E:\CodeWarrior-R2.5\2.4_FE_Based\PS2 Support\Msl\MSL_C++\MSL_Common\Include\msl_utility
+    Producer: MW MIPS C Compiler
+    Language: C++
+    Code range: 0x0020A870 -> 0x0020A898
+*/
+// Range: 0x20A870 -> 0x20A898
+// this: r29+0x10
+class allocator & compressed_pair::first() {
+    /* anonymous block */ {
+        // Range: 0x20A870 -> 0x20A898
+    }
+}
+
+
+/*
+    Compile unit: E:\CodeWarrior-R2.5\2.4_FE_Based\PS2 Support\Msl\MSL_C++\MSL_Common\Include\msl_utility
+    Producer: MW MIPS C Compiler
+    Language: C++
+    Code range: 0x0020A8A0 -> 0x0020A8B8
+*/
+// Range: 0x20A8A0 -> 0x20A8B8
+// this: r29
+class allocator & compressed_pair_imp::first() {
+    /* anonymous block */ {
+        // Range: 0x20A8A0 -> 0x20A8B8
+    }
+}
+
+

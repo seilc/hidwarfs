@@ -1,0 +1,339 @@
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x8003EE1C -> 0x8003EE24
+*/
+// Range: 0x8003EE1C -> 0x8003EE24
+void * operator new(void * ptr /* r4 */) {}
+
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x8003F244 -> 0x8003F244
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x8003FA28 -> 0x8003FA28
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x80040170 -> 0x80040170
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x8004F400 -> 0x8004F400
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x8005B1E8 -> 0x8005B1E8
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x800811B4 -> 0x800811B4
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x800C2260 -> 0x800C2260
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x800C2DA8 -> 0x800C2DA8
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x800E63E0 -> 0x800E63E0
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x800E73D8 -> 0x800E73D8
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x800E8860 -> 0x800E8860
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x800E9068 -> 0x800E9068
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x800E9504 -> 0x800E9504
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x80109F60 -> 0x80109F60
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x8010ABAC -> 0x8010ABAC
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x80110534 -> 0x80110534
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x80118678 -> 0x80118678
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x80129510 -> 0x80129510
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x8012AEB0 -> 0x8012AEB0
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x8012B59C -> 0x8012B59C
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x8013C060 -> 0x8013C060
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x8014D758 -> 0x8014D758
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x80152AE8 -> 0x80152AE8
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x80183128 -> 0x80183128
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x80183458 -> 0x80183458
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x801886B8 -> 0x801886B8
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x80188980 -> 0x80188980
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x80189C2C -> 0x80189C2C
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x801900A8 -> 0x801900A8
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x80190EDC -> 0x80190EDC
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x80191464 -> 0x80191464
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x80194A10 -> 0x80194A10
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x8019B2BC -> 0x8019B2BC
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x8019FF28 -> 0x8019FF28
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x801A3A48 -> 0x801A3A48
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x801A771C -> 0x801A771C
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x801AD138 -> 0x801AD138
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x801AF194 -> 0x801AF194
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x801B6A2C -> 0x801B6A2C
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x801B7A10 -> 0x801B7A10
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x801B8CA0 -> 0x801B8CA0
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x801B9DE8 -> 0x801B9DE8
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x801BCD68 -> 0x801BCD68
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x801C0620 -> 0x801C0620
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x801C0A68 -> 0x801C0A68
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x801C2920 -> 0x801C2920
+*/
+
+/*
+    Compile unit: C:\Program Files\Metrowerks\CodeWarrior\PowerPC_EABI_Support\MSL\MSL_C++\MSL_Common\Include\new
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Code range: 0x801C365C -> 0x801C365C
+*/
+

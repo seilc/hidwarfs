@@ -1,0 +1,31 @@
+/*
+    Compile unit: C:\CodeWarrior\PS2 Support\Msl\MSL_C++\MSL_Common\Include\vector
+    Producer: MW MIPS C Compiler
+    Language: C++
+    Code range: 0x003A5E00 -> 0x003A5E18
+*/
+// Range: 0x3A5E00 -> 0x3A5E18
+// this: r2
+__vector_pod::__vector_pod() {
+    /* anonymous block */ {
+        // Range: 0x3A5E00 -> 0x3A5E18
+    }
+}
+
+
+/*
+    Compile unit: C:\CodeWarrior\PS2 Support\Msl\MSL_C++\MSL_Common\Include\vector
+    Producer: MW MIPS C Compiler
+    Language: C++
+    Code range: 0x00400240 -> 0x00400330
+*/
+// Range: 0x400240 -> 0x400330
+// this: r18
+void __vector_pod::reserve(unsigned int n /* r17 */) {
+    /* anonymous block */ {
+        // Range: 0x400240 -> 0x400330
+        unsigned int * olddata; // r16
+    }
+}
+
+
