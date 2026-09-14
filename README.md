@@ -38,4 +38,4 @@ These dumps are useful for decompilation efforts, providing a close approximatio
 | ratatouille/proto-1-18-06/ratsgc_d | [Jan 18, 2006 prototype](https://hiddenpalace.org/Disney-Pixar_Ratatouille_(Jan_18,_2006_prototype)) (debug build) | GameCube | ratsgc_d.elf
 | ratatouille/proto-1-18-06/ratsgc_m | [Jan 18, 2006 prototype](https://hiddenpalace.org/Disney-Pixar_Ratatouille_(Jan_18,_2006_prototype)) (master build) | GameCube | ratsgc_m.elf
 | ratatouille/proto-1-18-06/ratsgc_md | [Jan 18, 2006 prototype](https://hiddenpalace.org/Disney-Pixar_Ratatouille_(Jan_18,_2006_prototype)) (master+debug build) | GameCube | ratsgc_md.elf
-| ratatouille/proto-1-18-06/ratsgc_r | [Jan 18, 2006 prototype](https://hiddenpalace.org/Disney-Pixar_Ratatouille_(Jan_18,_2006_prototype)) - (release build) | GameCube | ratsgc_r.elf
+| ratatouille/proto-1-18-06/ratsgc_r | [Jan 18, 2006 prototype](https://hiddenpalace.org/Disney-Pixar_Ratatouille_(Jan_18,_2006_prototype)) (release build) | GameCube | ratsgc_r.elf
