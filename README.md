@@ -30,6 +30,7 @@ These dumps are useful for decompilation efforts, providing a close approximatio
 | Directory | Build | Platform | Executable
 |--|--|--|--|
 | incredibles/proto-8-5-04 | [Aug 5, 2004 prototype](https://hiddenpalace.org/Disney-Pixar_The_Incredibles_(Aug_5,_2004_prototype)) | PlayStation 2 | SLUS_209.05
+| incredibles/proto-8-10-04 | [Aug 10, 2004 prototype](https://hiddenpalace.org/Disney-Pixar_The_Incredibles_(Aug_10,_2004_prototype)) | PlayStation 2 | SLUS_209.05
 
 ### Ratatouille
 
