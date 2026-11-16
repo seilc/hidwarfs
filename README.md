@@ -12,12 +12,14 @@ These dumps are useful for decompilation efforts, providing a close approximatio
 |--|--|--|--|
 | scooby/proto-1-31-01 | [Jan 31, 2001 prototype](https://hiddenpalace.org/Scooby-Doo!:_Night_of_100_Frights_(Jan_31,_2001_prototype)) | PlayStation 2 | XXXX_999.99
 | scooby/SLUS-20349 | Retail game (NTSC-U) | PlayStation 2 | SLUS_203.49
+| scooby/SLES-51017 | Retail game (PAL, Europe) | PlayStation 2 | SLES_510.17
 
 ### SpongeBob SquarePants: Battle for Bikini Bottom
 
 | Directory | Build | Platform | Executable
 |--|--|--|--|
 | bfbb/SLUS-20680 | Retail game (NTSC-U) | PlayStation 2 | SLUS_206.80
+| bfbb/SLES-51970 | Retail game (PAL, Germany) | PlayStation 2 | SLES_519.70
 
 ### The SpongeBob SquarePants Movie
 
