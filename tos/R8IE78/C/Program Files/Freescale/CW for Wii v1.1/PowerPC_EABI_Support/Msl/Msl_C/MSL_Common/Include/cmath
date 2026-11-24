@@ -1,0 +1,15 @@
+/*
+    Compile unit: C:\branches\SB09\main\GM\Engine\WAD\WAD02.cpp
+    Compile unit: C:\branches\SB09\main\GM\Engine\WAD\WAD03.cpp
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Source file: C:\Program Files\Freescale\CW for Wii v1.1\PowerPC_EABI_Support\Msl\Msl_C\MSL_Common\Include\cmath
+*/
+// signature: std::atan2(float, float)
+// Range: 0x800EAC40 -> 0x800EAC64
+float std::atan2() {
+}
+// signature: std::sin(float)
+// Range: 0x8010BB70 -> 0x8010BB94
+float std::sin() {
+}

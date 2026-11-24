@@ -1,0 +1,10 @@
+/*
+    Compile unit: C:\NG\Source\Engine\WAD\WAD00.cpp
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Source file: C:\Program Files\Freescale\Radix Studio\Nintendo Revolution\PowerPC_EABI_Support\Msl\Msl_C++\MSL_Common\Include\new
+*/
+// signature: operator new(unsigned long, void *) throw()
+// Range: 0x8022C708 -> 0x8022C710
+void * operator new() throw() {
+}

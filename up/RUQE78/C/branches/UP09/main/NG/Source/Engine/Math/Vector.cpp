@@ -1,0 +1,74 @@
+/*
+    Compile unit: C:\branches\UP09\main\NG\Source\Engine\WAD\WAD02.cpp
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Source file: C:\branches\UP09\main\NG\Source\Engine\Math\Vector.cpp
+*/
+class Vector4 vec4Zero; // size: 0x10, address: 0x8084C040
+class Vector4 vec4One; // size: 0x10, address: 0x8084C050
+class Vector4 vec4OneX; // size: 0x10, address: 0x8084C060
+class Vector4 vec4OneY; // size: 0x10, address: 0x8084C070
+class Vector4 vec4OneZ; // size: 0x10, address: 0x8084C080
+class Vector4 vec4OneW; // size: 0x10, address: 0x8084C090
+class Vector4 vec4NegOne; // size: 0x10, address: 0x8084C0A0
+class Vector4 vec4NegOneX; // size: 0x10, address: 0x8084C0B0
+class Vector4 vec4NegOneY; // size: 0x10, address: 0x8084C0C0
+class Vector4 vec4NegOneZ; // size: 0x10, address: 0x8084C0D0
+class Vector4 vec4NegOneW; // size: 0x10, address: 0x8084C0E0
+class Vector4 vec4NotX; // size: 0x10, address: 0x8084C0F0
+class Vector4 vec4NotY; // size: 0x10, address: 0x8084C100
+class Vector4 vec4NotZ; // size: 0x10, address: 0x8084C110
+class Vector4 vec4NotW; // size: 0x10, address: 0x8084C120
+class Vector3 vec3Zero; // size: 0xC, address: 0x8084C130
+class Vector3 vec3One; // size: 0xC, address: 0x8084C13C
+class Vector3 vec3OneX; // size: 0xC, address: 0x8084C148
+class Vector3 vec3OneY; // size: 0xC, address: 0x8084C154
+class Vector3 vec3OneZ; // size: 0xC, address: 0x8084C160
+class Vector3 vec3NegOne; // size: 0xC, address: 0x8084C16C
+class Vector3 vec3NegOneX; // size: 0xC, address: 0x8084C178
+class Vector3 vec3NegOneY; // size: 0xC, address: 0x8084C184
+class Vector3 vec3NegOneZ; // size: 0xC, address: 0x8084C190
+class Vector3 vec3NotX; // size: 0xC, address: 0x8084C19C
+class Vector3 vec3NotY; // size: 0xC, address: 0x8084C1A8
+class Vector3 vec3NotZ; // size: 0xC, address: 0x8084C1B4
+class Vector2 vec2Zero; // size: 0x8, address: 0x8084C1C0
+class Vector2 vec2One; // size: 0x8, address: 0x8084C1C8
+class Vector2 vec2OneX; // size: 0x8, address: 0x8084C1D0
+class Vector2 vec2OneY; // size: 0x8, address: 0x8084C1D8
+class Vector2 vec2NegOne; // size: 0x8, address: 0x8084C1E0
+class Vector2 vec2NegOneX; // size: 0x8, address: 0x8084C1E8
+class Vector2 vec2NegOneY; // size: 0x8, address: 0x8084C1F0
+class Vector4 vec4Half; // size: 0x10, address: 0x8084C1F8
+class Vector4 vec4HalfX; // size: 0x10, address: 0x8084C208
+class Vector4 vec4HalfY; // size: 0x10, address: 0x8084C218
+class Vector4 vec4HalfZ; // size: 0x10, address: 0x8084C228
+class Vector4 vec4HalfW; // size: 0x10, address: 0x8084C238
+class Vector4 vec4NegHalf; // size: 0x10, address: 0x8084C248
+class Vector4 vec4NegHalfX; // size: 0x10, address: 0x8084C258
+class Vector4 vec4NegHalfY; // size: 0x10, address: 0x8084C268
+class Vector4 vec4NegHalfZ; // size: 0x10, address: 0x8084C278
+class Vector4 vec4NegHalfW; // size: 0x10, address: 0x8084C288
+class Vector3 vec3Half; // size: 0xC, address: 0x8084C298
+class Vector3 vec3HalfX; // size: 0xC, address: 0x8084C2A4
+class Vector3 vec3HalfY; // size: 0xC, address: 0x8084C2B0
+class Vector3 vec3HalfZ; // size: 0xC, address: 0x8084C2BC
+class Vector3 vec3NegHalf; // size: 0xC, address: 0x8084C2C8
+class Vector3 vec3NegHalfX; // size: 0xC, address: 0x8084C2D4
+class Vector3 vec3NegHalfY; // size: 0xC, address: 0x8084C2E0
+class Vector3 vec3NegHalfZ; // size: 0xC, address: 0x8084C2EC
+class Vector2 vec2Half; // size: 0x8, address: 0x8084C2F8
+class Vector2 vec2HalfX; // size: 0x8, address: 0x8084C300
+class Vector2 vec2HalfY; // size: 0x8, address: 0x8084C308
+class Vector2 vec2NegHalf; // size: 0x8, address: 0x8084C310
+class Vector2 vec2NegHalfX; // size: 0x8, address: 0x8084C318
+class Vector2 vec2NegHalfY; // size: 0x8, address: 0x8084C320
+static float MASK0; // size: 0x4, address: 0x8084C328
+static float MASK1; // size: 0x4, address: 0x8084C32C
+static float X0; // size: 0x4, address: 0x8084C330
+static float Y0; // size: 0x4, address: 0x8084C334
+static float Z0; // size: 0x4, address: 0x8084C338
+static float W0; // size: 0x4, address: 0x8084C33C
+static float X1; // size: 0x4, address: 0x8084C340
+static float Y1; // size: 0x4, address: 0x8084C344
+static float Z1; // size: 0x4, address: 0x8084C348
+static float W1; // size: 0x4, address: 0x8084C34C

@@ -1,0 +1,28 @@
+/*
+    Compile unit: C:\branches\SB09\main\GM\Engine\WAD\WAD00.cpp
+    Compile unit: C:\branches\SB09\main\GM\Engine\WAD\WAD01.cpp
+    Compile unit: C:\branches\SB09\main\GM\Engine\WAD\WAD03.cpp
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Source file: C:\Program Files\Freescale\CW for Wii v1.1\PowerPC_EABI_Support\Msl\Msl_C\MSL_Common\Include\cctype
+*/
+// Range: 0x8000FD10 -> 0x8000FD50
+int isdigit() {
+    // References
+    // -> class __locale _current_locale;
+}
+// Range: 0x800491D0 -> 0x80049210
+int isprint() {
+    // References
+    // -> class __locale _current_locale;
+}
+// Range: 0x8009D5B0 -> 0x8009D5F0
+int isspace() {
+    // References
+    // -> class __locale _current_locale;
+}
+// Range: 0x80122B00 -> 0x80122B30
+int toupper() {
+    // References
+    // -> class __locale _current_locale;
+}

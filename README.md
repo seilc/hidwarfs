@@ -1,6 +1,8 @@
 # Heavy Iron DWARF Dumps
 
-This repository contains C/C++ types, variables, and functions reconstructed from DWARF 1.0/1.1 debug data found in several Heavy Iron Studios games. The dumps were generated with [dtk dwarf dump](https://github.com/encounter/decomp-toolkit) and split into files while preserving the original directory structure.
+This repository contains C/C++ types, variables, and functions reconstructed from DWARF debug data found in several Heavy Iron Studios games. The DWARF 1.0/1.1 dumps (PlayStation 2 and GameCube) were generated with [dtk dwarf dump](https://github.com/encounter/decomp-toolkit) and split into files while preserving the original directory structure.
+
+The Wii games (WALL-E, Up, SpongeBob's Truth or Square) carry Metrowerks DWARF 2, which dtk doesn't read. Their dumps were generated with a [pyelftools](https://github.com/eliben/pyelftools) script that writes dtk's format. Functions, parameters, locals and globals are split by their declaring source file (`DW_AT_decl_file`), in line order. Types carry no source file in these builds, so each stays in the file of the compile unit that holds it (the unity `WAD` files, e.g. `C/RT/Engine/WAD/WAD00.cpp`). Every C++ record is a `class` in this DWARF, whatever its source keyword, and type names carry no namespace or class scope.
 
 These dumps are useful for decompilation efforts, providing a close approximation of the original source structure. Note that the dumps are not 100% complete, as unused local variables and parameters are omitted.
 
@@ -42,3 +44,21 @@ These dumps are useful for decompilation efforts, providing a close approximatio
 | ratatouille/proto-1-18-06/ratsgc_m | [Jan 18, 2006 prototype](https://hiddenpalace.org/Disney-Pixar_Ratatouille_(Jan_18,_2006_prototype)) (master build) | GameCube | ratsgc_m.elf
 | ratatouille/proto-1-18-06/ratsgc_md | [Jan 18, 2006 prototype](https://hiddenpalace.org/Disney-Pixar_Ratatouille_(Jan_18,_2006_prototype)) (master+debug build) | GameCube | ratsgc_md.elf
 | ratatouille/proto-1-18-06/ratsgc_r | [Jan 18, 2006 prototype](https://hiddenpalace.org/Disney-Pixar_Ratatouille_(Jan_18,_2006_prototype)) (release build) | GameCube | ratsgc_r.elf
+
+### WALL-E
+
+| Directory | Build | Platform | Executable
+|--|--|--|--|
+| walle/RWAE78 | Retail game (NTSC-U, En/Fr, Build 303) | Wii | WALLEWiiMaster.elf
+
+### Up
+
+| Directory | Build | Platform | Executable
+|--|--|--|--|
+| up/RUQE78 | Retail game (NTSC-U) | Wii | UP09WiiMASTERWAD.elf
+
+### SpongeBob's Truth or Square
+
+| Directory | Build | Platform | Executable
+|--|--|--|--|
+| tos/R8IE78 | Retail game (NTSC-U) | Wii | SB09WiiMASTERWAD.elf

@@ -1,0 +1,121 @@
+/*
+    Compile unit: C:\branches\SB09\main\GM\Engine\WAD\WAD00.cpp
+    Compile unit: C:\branches\SB09\main\GM\Engine\WAD\WAD02.cpp
+    Compile unit: C:\branches\SB09\main\NG\Source\Engine\WAD\WAD00.cpp
+    Compile unit: C:\branches\SB09\main\NG\Source\Engine\WAD\WAD01.cpp
+    Compile unit: C:\branches\SB09\main\NG\Source\Engine\WAD\WADSpeed.cpp
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Source file: C:\Program Files\Freescale\CW for Wii v1.1\PowerPC_EABI_Support\Msl\Msl_C++\MSL_Common\Include\algorithm
+*/
+int shuffle_range; // size: 0x4, address: 0x80692D48
+int shuffle; // size: 0x4, address: 0x806B404C
+int shuffle; // size: 0x4, address: 0x806BD690
+int shuffle; // size: 0x4, address: 0x806CA03C
+int shuffle; // size: 0x4, address: 0x806CA040
+int shuffle; // size: 0x4, address: 0x806CD1A4
+int shuffle; // size: 0x4, address: 0x806D1C70
+// signature: std::swap<ParticleSorter::SortGroup>(ParticleSorter::SortGroup &, ParticleSorter::SortGroup &)
+// Range: 0x8003DC70 -> 0x8003DCA8
+void std::swap<ParticleSorter::SortGroup>() {
+    // Local variables
+    class SortGroup tmp; // r1+0x8
+}
+// signature: std::swap<World::CurveEntity::QuadMinCache>(World::CurveEntity::QuadMinCache &, World::CurveEntity::QuadMinCache &)
+// Range: 0x801B5EC0 -> 0x801B5F20
+void std::swap<World::CurveEntity::QuadMinCache>(class QuadMinCache & b /* r31 */) {
+    // Local variables
+    class QuadMinCache tmp; // r1+0x8
+}
+// signature: std::swap<Graphics::ShaderRefEntry>(Graphics::ShaderRefEntry &, Graphics::ShaderRefEntry &)
+// Range: 0x801C6F30 -> 0x801C6F64
+void std::swap<Graphics::ShaderRefEntry>() {
+    // Local variables
+    class ShaderRefEntry tmp; // r1+0x8
+}
+// Range: 0x801B5F50 -> 0x801B6038
+void std::__sort132<bool (*&)(const World::CurveEntity::QuadMinCache &, const World::CurveEntity::QuadMinCache &), World::CurveEntity::QuadMinCache *>(class QuadMinCache * a1 /* r27 */, class QuadMinCache * a2 /* r28 */, class QuadMinCache * a3 /* r29 */, bool (* & comp)(class QuadMinCache & a, class QuadMinCache & b) /* r30 */) {
+    // Local variables
+    bool b1; // r0
+    bool b2; // r0
+}
+// signature: std::__sort132<std::detail::less<Graphics::ProjectShadowView::CacheSort, Graphics::ProjectShadowView::CacheSort> &, Graphics::ProjectShadowView::CacheSort *>(Graphics::ProjectShadowView::CacheSort *, Graphics::ProjectShadowView::CacheSort *, Graphics::ProjectShadowView::CacheSort *, std::detail::less<Graphics::ProjectShadowView::CacheSort, Graphics::ProjectShadowView::CacheSort> &)
+// Range: 0x8020E6A0 -> 0x8020E758
+void std::__sort132<std::detail::less<Graphics::ProjectShadowView::CacheSort, Graphics::ProjectShadowView::CacheSort> &, Graphics::ProjectShadowView::CacheSort *>() {
+    // Local variables
+    bool b1; // r0
+    bool b2; // r0
+}
+// Range: 0x801B6040 -> 0x801B60E0
+void std::__selection_sort<bool (*&)(const World::CurveEntity::QuadMinCache &, const World::CurveEntity::QuadMinCache &), World::CurveEntity::QuadMinCache *>(class QuadMinCache * first /* r26 */, class QuadMinCache * last /* r27 */, bool (* & comp)(class QuadMinCache & a, class QuadMinCache & b) /* r28 */) {
+}
+// Range: 0x8003D920 -> 0x8003DC70
+void std::sort<ParticleSorter::SortGroup *, std::detail::less<ParticleSorter::SortGroup, ParticleSorter::SortGroup> &>(class SortGroup * first /* r24 */, class SortGroup * last /* r25 */, class less & comp /* r26 */) {
+    {
+        // Range: 0x8003D93C -> 0x8003DC5C
+        // Local variables
+        class SortGroup * j; // r27
+        class SortGroup * i1; // r28
+        class SortGroup * m; // r29
+        long len; // r6
+    }
+
+    // References
+    // -> int shuffle;
+}
+// Range: 0x800C4C30 -> 0x800C5150
+void std::sort<GradientCurve::zGradientCurve::sCurvePoint *, std::detail::less<GradientCurve::zGradientCurve::sCurvePoint, GradientCurve::zGradientCurve::sCurvePoint> &>(class sCurvePoint * first /* r24 */, class sCurvePoint * last /* r25 */, class less & comp /* r26 */) {
+    {
+        // Range: 0x800C4C50 -> 0x800C5138
+        // Local variables
+        class sCurvePoint * j; // r27
+        class sCurvePoint * i1; // r29
+        class sCurvePoint * m; // r28
+        long len; // r6
+    }
+
+    // References
+    // -> int shuffle;
+}
+// Range: 0x801B5BD0 -> 0x801B5EB4
+void std::sort<World::CurveEntity::QuadMinCache *, bool (*&)(const World::CurveEntity::QuadMinCache &, const World::CurveEntity::QuadMinCache &)>(class QuadMinCache * first /* r27 */, class QuadMinCache * last /* r28 */, bool (* & comp)(class QuadMinCache & a, class QuadMinCache & b) /* r29 */) {
+    {
+        // Range: 0x801B5BEC -> 0x801B5EA0
+        // Local variables
+        class QuadMinCache * j; // r23
+        class QuadMinCache * i1; // r4
+        class QuadMinCache * m; // r3
+        long len; // r6
+    }
+
+    // References
+    // -> int shuffle;
+}
+// Range: 0x801C6B90 -> 0x801C6F24
+void std::sort<Graphics::ShaderRefEntry *, std::detail::less<Graphics::ShaderRefEntry, Graphics::ShaderRefEntry> &>(class ShaderRefEntry * first /* r26 */, class ShaderRefEntry * last /* r27 */, class less & comp /* r28 */) {
+    {
+        // Range: 0x801C6BAC -> 0x801C6F10
+        // Local variables
+        class ShaderRefEntry * j; // r23
+        class ShaderRefEntry * i1; // r24
+        class ShaderRefEntry * m; // r29
+        long len; // r6
+    }
+
+    // References
+    // -> int shuffle;
+}
+// Range: 0x8020E340 -> 0x8020E694
+void std::sort<Graphics::ProjectShadowView::CacheSort *, std::detail::less<Graphics::ProjectShadowView::CacheSort, Graphics::ProjectShadowView::CacheSort> &>(class CacheSort * first /* r25 */, class CacheSort * last /* r26 */, class less & comp /* r27 */) {
+    {
+        // Range: 0x8020E348 -> 0x8020E680
+        // Local variables
+        class CacheSort * j; // r28
+        class CacheSort * i1; // r4
+        class CacheSort * m; // r3
+        long len; // r7
+    }
+
+    // References
+    // -> int shuffle;
+}

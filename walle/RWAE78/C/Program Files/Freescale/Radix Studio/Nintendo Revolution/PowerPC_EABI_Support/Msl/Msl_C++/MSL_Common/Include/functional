@@ -1,0 +1,10 @@
+/*
+    Compile unit: C:\NG\Source\Engine\WAD\WAD01.cpp
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Source file: C:\Program Files\Freescale\Radix Studio\Nintendo Revolution\PowerPC_EABI_Support\Msl\Msl_C++\MSL_Common\Include\functional
+*/
+// signature: std::detail::less<Graphics::ShaderRefEntry, Graphics::ShaderRefEntry>::operator()(const Graphics::ShaderRefEntry &, const Graphics::ShaderRefEntry &) const
+// Range: 0x80253DE4 -> 0x802540BC
+bool std::detail::less<Graphics::ShaderRefEntry, Graphics::ShaderRefEntry>::operator()() const {
+}

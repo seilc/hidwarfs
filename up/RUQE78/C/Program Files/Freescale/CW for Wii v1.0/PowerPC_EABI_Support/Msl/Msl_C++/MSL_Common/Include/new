@@ -1,0 +1,10 @@
+/*
+    Compile unit: C:\branches\UP09\main\GM\Engine\WAD\WAD00.cpp
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Source file: C:\Program Files\Freescale\CW for Wii v1.0\PowerPC_EABI_Support\Msl\Msl_C++\MSL_Common\Include\new
+*/
+// signature: operator new(unsigned long, void *) throw()
+// Range: 0x8003B5C0 -> 0x8003B5C8
+void * operator new() throw() {
+}

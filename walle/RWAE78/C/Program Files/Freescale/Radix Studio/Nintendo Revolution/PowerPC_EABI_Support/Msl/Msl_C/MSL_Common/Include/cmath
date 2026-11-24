@@ -1,0 +1,10 @@
+/*
+    Compile unit: C:\NG\Source\Engine\WAD\WAD01.cpp
+    Producer: MW EABI PPC C-Compiler
+    Language: C++
+    Source file: C:\Program Files\Freescale\Radix Studio\Nintendo Revolution\PowerPC_EABI_Support\Msl\Msl_C\MSL_Common\Include\cmath
+*/
+// signature: std::abs(float)
+// Range: 0x80251B94 -> 0x80251BA0
+float std::abs() {
+}
